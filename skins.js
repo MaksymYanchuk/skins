@@ -12,7 +12,7 @@
         // "Souvenir FAMAS | CaliCamo (Factory New)",
         "Souvenir FAMAS | CaliCamo (Minimal Wear)",
         "Souvenir CZ75-Auto | Midnight Palm (Factory New)",
-        "Souvenir SG 553 | Desert Blossom (Field-Tested)",
+       // "Souvenir SG 553 | Desert Blossom (Field-Tested)",
         // "Souvenir CZ75-Auto | Silver (Factory New)",
         "Souvenir MP9 | Music Box (Field-Tested)",
         // "Souvenir MP9 | Old Roots (Minimal Wear)",
