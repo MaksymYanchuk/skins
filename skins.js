@@ -21,7 +21,7 @@
         "Souvenir G3SG1 | New Roots (Field-Tested)",
         //  "Souvenir G3SG1 | Ancient Ritual (Minimal Wear)",
         // "Souvenir P2000 | Panther Camo (Factory New)",
-        "Souvenir P2000 | Panther Camo (Minimal Wear)",
+       // "Souvenir P2000 | Panther Camo (Minimal Wear)",
         "Souvenir P2000 | Panther Camo (Field-Tested)",
 
         "Sticker | Evil Geniuses (Holo) | 2020 RMR",
